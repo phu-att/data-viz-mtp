@@ -33,4 +33,4 @@ data-viz-mtp
 ### scripts
 * ``` 00_prep&analysis.ipynb``` -> The code contains data exploration,processing processes & conducted analysis, including all outputs shown in the companion document
 ### output
-* ```00_viz.pdf``` -> The visualization that contains all visualizations in the code
+* ```00_viz.pdf``` -> The combined visualization that contains all visualizations in the code
